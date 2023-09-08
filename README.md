@@ -5,3 +5,5 @@ on retrouveras dans ce dépot:
 un dossier avec 2 jeux de données en format csv (un sur des données méteorologique et l'autre sur des feux de forets)
 un dossier avec un fichier pour chaque qui contiendra le code pour nettoyer et formater les données ainsi que le dataframe final
 puis le modèle d'IA.
+
+ps: Il faudra aller sur la branche: Projet_AMFF
