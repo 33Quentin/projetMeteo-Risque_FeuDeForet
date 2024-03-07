@@ -1,7 +1,8 @@
 # projetMeteo-Risque_FeuDeForet
 
-ce projet est une IA prédectrice de meteo est de feux de fôrets sur la Gironde.
-on retrouveras dans ce dépot:
-un dossier avec le traitement des données
-un dossier avec le modèle.
+⚠⚠⚠ Projet non finis
+
+ce projet à pour but de prédire la meteo est les risqued feux de fôrets sur la Gironde.
+reste à faire :
+mettre en place un modèle de machine learning pour de la time series.
 
